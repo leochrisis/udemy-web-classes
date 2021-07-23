@@ -40,7 +40,11 @@ padding-top: 10px;
         @mixin atMedium  {
             font-size: 1rem;
             padding: 12px 0; 
-            background-color: transparent
+            background-color: transparent;
+
+            &.is-current-link {
+                color: #fabb69;
+            }
         }
     }
 }
