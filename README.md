@@ -7,12 +7,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://imgur.com/a/IbscTQE">
-    <img src="https://imgur.com/a/IbscTQE"/>
-  </a>
-</p>
-
 <h4 align="center">
   A repository created to store the lessons learned in the course: Git a Web Developer Job: Mastering the Modern Workflow
 </h4>
